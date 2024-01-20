@@ -9,6 +9,7 @@ Data - https://physionet.org/content/respiratory-dataset/1.0.0/#files-panel
 ## Contributors:
 - Keller Flint (kflintblanchard@sandiego.edu)
 - Ben Hopwood (bhopwood@sandiego.edu)
+- Angel Benitez (abenitez@sandiego.edu)
 
 ## Stuff
 
