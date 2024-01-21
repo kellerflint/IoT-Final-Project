@@ -40,7 +40,7 @@ Files are saved in these folders by subject number ('S01' through to 'S80') e.g.
 These files contain data as a matrix of pixel values representing regional aeration for a cross-sectional image (32x32 frame) over time (with 50Hz sampling).
 
 'Code'
-Folder contains MATLAB code, used in data collection, processing, and visualisation.
+Folder contains MATLAB code, used in data collection, processing, and visualization.
 	'DataCollection_30MAR23.m' - data collection code for pressure & flow sensor array, and dynamic circumference tapes (generating 'PQ_rawData' .mat files)
 	'DataConversion_07AUG23.m' - converts raw data and raw data with units ('PQ_rawData') files from .mat to .csv files
 	'DataProcessing_29AUG23.m' - combines and processes pressure & flow sensor array, dynamic circumference tapes, and EIT data to generate 'ProcessedDataset' files
