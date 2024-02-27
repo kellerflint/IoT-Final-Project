@@ -1,4 +1,4 @@
-# Working Title Here - IoT Final Project
+# IoT System for Enhanced Respiratory Monitoring and Sleep Apnea Management
 This project is a part of the AAI-530 course, Data Analytics and Internet of Things, in the Applied Artificial Intelligence Masters Program at the University of San Diego (USD).
 
 ## Project Objectives
